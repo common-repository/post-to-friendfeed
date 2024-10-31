@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Web Geeks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: post-to-friendfeed.php:131
+msgid "Setting saved."
+msgstr "Setarea salvate."
+
+#: post-to-friendfeed.php:146
+msgid "Post2FF Options"
+msgstr "Post2FF Opţiuni"
+
+#: post-to-friendfeed.php:152
+msgid "FriendFeed Nickname"
+msgstr "FriendFeed porecla"
+
+#: post-to-friendfeed.php:159
+msgid "Remote Key"
+msgstr "de la distanţă cheie"
+
+#: post-to-friendfeed.php:161
+msgid "find your key"
+msgstr "găsi cheia"
+
+#: post-to-friendfeed.php:166
+msgid "Number of images to import"
+msgstr "Numărul de imagini pentru a le importa"
+
+#: post-to-friendfeed.php:173
+msgid "Import excerpt as first comment"
+msgstr "Extras import ca primul comentariu"
+
+#: post-to-friendfeed.php:175
+msgid "Yes"
+msgstr "da"
+
+#: post-to-friendfeed.php:176
+msgid "No"
+msgstr "nu"
+
+#: post-to-friendfeed.php:234
+#: post-to-friendfeed.php:297
+msgid "Post to Friendfeed"
+msgstr "Post a Friendfeed"
+
+#: post-to-friendfeed.php:237
+msgid "Post to "
+msgstr "Mesaj pentru"
+
+#: post-to-friendfeed.php:239
+msgid "Home Feed"
+msgstr "Pagina de alimentare"
+
+#: post-to-friendfeed.php:248
+msgid "Excerpt to be posted as first comment"
+msgstr "Extras a fi postate ca primul comentariu"
+
+#: post-to-friendfeed.php:251
+msgid "(If left blank, the posts excerpt will be used.)"
+msgstr "(Dacă este lăsat necompletat, extras de posturi vor fi utilizate.)"
+
+#: post-to-friendfeed.php:254
+msgid "Image urls (seperate multiple urls by comma)"
+msgstr "URL-uri imagine (URL-uri multiple, separat prin virgula)"
+
+#: post-to-friendfeed.php:257
+#, php-format
+msgid "(If left blank, first %d images from the post will be used.)"
+msgstr "(În cazul în care stânga imagini goale, primele d% din post va fi folosit.)"
+
+#: post-to-friendfeed.php:296
+msgid "ERROR!"
+msgstr "EROARE!"
+
+#: post-to-friendfeed.php:297
+msgid "Plugin requires"
+msgstr "Plugin necesită"
+
+#: post-to-friendfeed.php:298
+msgid "Friendfeed API Core Plugin"
+msgstr "FriendFeed API Core Plugin"
+
+#: post-to-friendfeed.php:299
+msgid "Please install it and then activate <strong>Post to Friendfeed</strong> Plugin."
+msgstr "Vă rugăm să instalaţi-l şi apoi activa post <strong> la Friendfeed </strong> Plugin."
+
+#. Plugin Name of an extension
+msgid "Post to FriendFeed"
+msgstr "Post a FriendFeed"
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/post-to-friendfeed"
+msgstr "http://sudarmuthu.com/Wordpress/post-to-FriendFeed"
+
+#. Description of an extension
+msgid "Publish an entry to FriendFeed of your blog post with images and excerpt."
+msgstr "Publicarea o intrare la FriendFeed de post de blog cu imagini şi extrase."
+
+#. Author of an extension
+msgid "Sudar"
+msgstr "Sudar"
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr "http://sudarmuthu.com/"
+

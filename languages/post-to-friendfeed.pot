@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2009 Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# Sudar <sudar@sudarmuthu.com>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post to FriendFeed 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-to-friendfeed\n"
+"POT-Creation-Date: 2009-08-14 08:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: post-to-friendfeed.php:131
+msgid "Setting saved."
+msgstr ""
+
+#: post-to-friendfeed.php:146
+msgid "Post2FF Options"
+msgstr ""
+
+#: post-to-friendfeed.php:152
+msgid "FriendFeed Nickname"
+msgstr ""
+
+#: post-to-friendfeed.php:159
+msgid "Remote Key"
+msgstr ""
+
+#: post-to-friendfeed.php:161
+msgid "find your key"
+msgstr ""
+
+#: post-to-friendfeed.php:166
+msgid "Number of images to import"
+msgstr ""
+
+#: post-to-friendfeed.php:173
+msgid "Import excerpt as first comment"
+msgstr ""
+
+#: post-to-friendfeed.php:175
+msgid "Yes"
+msgstr ""
+
+#: post-to-friendfeed.php:176
+msgid "No"
+msgstr ""
+
+#: post-to-friendfeed.php:234 post-to-friendfeed.php:297
+msgid "Post to Friendfeed"
+msgstr ""
+
+#: post-to-friendfeed.php:237
+msgid "Post to "
+msgstr ""
+
+#: post-to-friendfeed.php:239
+msgid "Home Feed"
+msgstr ""
+
+#: post-to-friendfeed.php:248
+msgid "Excerpt to be posted as first comment"
+msgstr ""
+
+#: post-to-friendfeed.php:251
+msgid "(If left blank, the posts excerpt will be used.)"
+msgstr ""
+
+#: post-to-friendfeed.php:254
+msgid "Image urls (seperate multiple urls by comma)"
+msgstr ""
+
+#: post-to-friendfeed.php:257
+#, php-format
+msgid "(If left blank, the first image from the post will be used.)"
+msgid_plural "(If left blank, first %d images from the post will be used.)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: post-to-friendfeed.php:296
+msgid "ERROR!"
+msgstr ""
+
+#: post-to-friendfeed.php:297
+msgid "Plugin requires"
+msgstr ""
+
+#: post-to-friendfeed.php:298
+msgid "Friendfeed API Core Plugin"
+msgstr ""
+
+#: post-to-friendfeed.php:299
+msgid ""
+"Please install it and then activate <strong>Post to Friendfeed</strong> "
+"Plugin."
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Post to FriendFeed"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/post-to-friendfeed"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Publish an entry to FriendFeed of your blog post with images and excerpt."
+msgstr ""
+
+#. Author of an extension
+msgid "Sudar"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr ""

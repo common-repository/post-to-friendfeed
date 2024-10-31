@@ -1,0 +1,119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2009 Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# Sudar <sudar@sudarmuthu.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Post to FriendFeed 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-to-friendfeed\n"
+"POT-Creation-Date: 2009-08-14 08:34+0000\n"
+"PO-Revision-Date: 2011-08-31 15:21+0200\n"
+"Last-Translator: Тарас Данилюк <nikman851@gmail.com>\n"
+"Language-Team: Dimitar Kolevski <dimitar.kolevski@mail.bg>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#: post-to-friendfeed.php:131
+msgid "Setting saved."
+msgstr "Настройка спасени."
+
+#: post-to-friendfeed.php:146
+msgid "Post2FF Options"
+msgstr "Post2FF Опции"
+
+#: post-to-friendfeed.php:152
+msgid "FriendFeed Nickname"
+msgstr "FriendFeed Nickname"
+
+#: post-to-friendfeed.php:159
+msgid "Remote Key"
+msgstr "дистанционно ключ"
+
+#: post-to-friendfeed.php:161
+msgid "find your key"
+msgstr "намерите вашия ключ"
+
+#: post-to-friendfeed.php:166
+msgid "Number of images to import"
+msgstr "Брой на изображения, да импортирате"
+
+#: post-to-friendfeed.php:173
+msgid "Import excerpt as first comment"
+msgstr "Внос откъс като първа коментар"
+
+#: post-to-friendfeed.php:175
+msgid "Yes"
+msgstr "да"
+
+#: post-to-friendfeed.php:176
+msgid "No"
+msgstr "не"
+
+#: post-to-friendfeed.php:234
+#: post-to-friendfeed.php:297
+msgid "Post to Friendfeed"
+msgstr "Вижте да FriendFeed"
+
+#: post-to-friendfeed.php:237
+msgid "Post to "
+msgstr "Публикувай във"
+
+#: post-to-friendfeed.php:239
+msgid "Home Feed"
+msgstr "Начало Feed"
+
+#: post-to-friendfeed.php:248
+msgid "Excerpt to be posted as first comment"
+msgstr "Откъс да бъдат публикувани като първият коментар"
+
+#: post-to-friendfeed.php:251
+msgid "(If left blank, the posts excerpt will be used.)"
+msgstr "(Ако се остави празно, откъс постовете ще бъдат използвани)."
+
+#: post-to-friendfeed.php:254
+msgid "Image urls (seperate multiple urls by comma)"
+msgstr "URL адресите на изображенията (отделно множество URL адреси със запетая)"
+
+#: post-to-friendfeed.php:257
+#: post-to-friendfeed.php:296
+#, php-format
+msgid "ERROR!"
+msgstr "Грешка!"
+
+#: post-to-friendfeed.php:297
+msgid "Plugin requires"
+msgstr "Plug-in изисква"
+
+#: post-to-friendfeed.php:298
+msgid "Friendfeed API Core Plugin"
+msgstr "FriendFeed API Основни Plugin"
+
+#: post-to-friendfeed.php:299
+msgid "Please install it and then activate <strong>Post to Friendfeed</strong> Plugin."
+msgstr "Моля, да го инсталирате и след това активирате <strong> Публикувай FriendFeed</strong> Plug-in."
+
+#. Plugin Name of an extension
+msgid "Post to FriendFeed"
+msgstr "Post to FriendFeed"
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/post-to-friendfeed"
+msgstr ""
+
+#. Description of an extension
+msgid "Publish an entry to FriendFeed of your blog post with images and excerpt."
+msgstr "Публикуване на влизане FriendFeed на вашия блог пост с изображения и откъс."
+
+#. Author of an extension
+msgid "Sudar"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr ""
+
